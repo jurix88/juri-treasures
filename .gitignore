@@ -1,0 +1,6 @@
+# Flutter/Dart specific
+**/build/
+**/.dart_tool/
+**/ios/Flutter/.generated/
+**/pubspec.lock
+**/packages/
